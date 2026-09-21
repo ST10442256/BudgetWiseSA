@@ -1,0 +1,15 @@
+package com.example.budgetwisesa.data.model
+
+import androidx.room.Entity
+import androidx.room.PrimaryKey
+
+@Entity(tableName = "budgets")
+data class Budget(
+    @PrimaryKey(autoGenerate = true)
+    val id: Long = 0,
+    val category: String,
+    val amount: Double,
+    val period: String, // e.g., "Monthly", "Weekly"
+    val spent: Double = 0.0,
+    val isSynced: Boolean = false
+)

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BudgetWise SA</string>
+    <string name="dashboard">Dazhibodo</string>
+    <string name="transactions">Mveledzo</string>
+    <string name="budgets">Mugaganyo</string>
+    <string name="goals">Zwipikwa zwa u vhulunga</string>
+    <string name="reports">Mivhigo</string>
+    <string name="settings">Zwe zwa dzudzanywa</string>
+    <string name="login">Dzhena</string>
+    <string name="register">Ñwalisa</string>
+    <string name="email">Imeili</string>
+    <string name="password">Phasiwidi</string>
+    <string name="sign_in_google">Dzhena nga Google</string>
+    <string name="add_transaction">Engedza Mveledzo</string>
+    <string name="amount">Tshelede</string>
+    <string name="category">Khathegori</string>
+    <string name="description">Thaluso</string>
+    <string name="save">Vhulunga</string>
+    <string name="income">Mbuelo</string>
+    <string name="expense">Zwishumiswa</string>
+    <string name="badges">Mibebenwo</string>
+    <string name="budget_hero">Muhali wa Mugaganyo</string>
+    <string name="saver_pro">Muvhulungi wa Vhuimo</string>
+    <string name="consistent_recorder">Muñwalisi a sa tshentshi</string>
+    <string name="wealth_builder">Mufhatamasia</string>
+    <string name="recent_transactions">Mveledzo dza zwenezwino</string>
+</resources>

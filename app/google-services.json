@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "787284964151",
+    "project_id": "smartbudgetsa-57a23",
+    "storage_bucket": "smartbudgetsa-57a23.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787284964151:android:29e83731c05896fb02a0b2",
+        "android_client_info": {
+          "package_name": "com.example.budgetwisesa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787284964151-h1alholm6ag962ckqjver2b299fkqcmb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.budgetwisesa",
+            "certificate_hash": "59c2f6902534a5b1573dd56427b4180bafe3835f"
+          }
+        },
+        {
+          "client_id": "787284964151-eor5fhsa06ot8ckth3u8medg2ff101e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUUDeguVIeh3Fuf6hRkaBS4WQgUo8nw4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787284964151-eor5fhsa06ot8ckth3u8medg2ff101e4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
