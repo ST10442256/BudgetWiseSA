@@ -31,3 +31,6 @@ This application was developed as part of a Portfolio of Evidence (PoE) for Term
 - NDIVHUWO RANKHODODO (ST10442256)
 - REVELE VELE (ST10446018)
 - MAREMA PHATHUTSHEDZO (ST10442530)
+
+link to video:
+https://youtu.be/bIFmsnv2Nw8?si=1U3ueUyByGCrElU2
