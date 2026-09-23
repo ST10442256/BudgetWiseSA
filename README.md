@@ -2,7 +2,7 @@
 
 BudgetWise SA is a professional personal budgeting application for Android, built using **Kotlin** and **Jetpack Compose**. It is designed to help users track income, expenses, budgets, and savings goals within a single, high-performance interface.
 
-## 🚀 Key Features
+ ## Key Features
 
 - **Multi-Method Authentication**: Secure login via Firebase using Email/Password, Phone Number (SMS), and Google Single Sign-On (SSO).
 - **Offline-First Architecture**: Uses a local **Room Database** to ensure the app remains functional without an internet connection.
@@ -13,7 +13,7 @@ BudgetWise SA is a professional personal budgeting application for Android, buil
 - **Localization**: Full support for **English** and **Tshivenda**.
 - **Dark Mode**: Fully themed interface for both light and dark system preferences.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **UI**: Jetpack Compose (Material 3)
 - **Architecture**: MVVM (Model-View-ViewModel) with Clean Architecture layers.
@@ -22,7 +22,7 @@ BudgetWise SA is a professional personal budgeting application for Android, buil
 - **Networking**: Retrofit & OkHttp
 - **Image Loading**: Coil
 
-## 📝 Portfolio of Evidence
+##  Portfolio of Evidence
 
 This application was developed as part of a Portfolio of Evidence (PoE) for Term 2. 
 
@@ -34,3 +34,5 @@ This application was developed as part of a Portfolio of Evidence (PoE) for Term
 
 link to video:
 https://youtu.be/bIFmsnv2Nw8?si=1U3ueUyByGCrElU2
+link to tik tok video:
+https://vt.tiktok.com/ZSbJkqnXF/
